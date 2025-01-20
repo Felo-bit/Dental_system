@@ -8,4 +8,4 @@ multiplication = y * x * z
 
 print(addition)
 print(substract)
-print(multiplication)
+print(multiplication) 
